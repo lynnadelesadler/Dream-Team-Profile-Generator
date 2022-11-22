@@ -24,6 +24,10 @@ https://drive.google.com/file/d/1Op074s3UTWLpAlO4jsGuLdl6DRMW4OhO/view
 - Open Mod 10 Project in Integrated Terminal.
 - Run the command `npm run test` to see all tests pass on Employee, Engineer, Intern and Manager JS files.
 
+The URL for Screencastify Video running Jest Testing on Google Drive...
+
+https://drive.google.com/file/d/1qDsjd6g6SyA7yUJRyXGbu6sbNThluT37/view
+
 
 ## Visuals
 
